@@ -1,0 +1,10 @@
+{
+  "name": "insights-form-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "bun scrape.js",
+    "test": "bun test"
+  }
+}
